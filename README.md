@@ -1,4 +1,4 @@
-# Viprofix
+# MRWHITETRUEX
 BOT PROTECT CREATOR & ADMIN
 ------
 GET TOKEN :
@@ -6,7 +6,7 @@ GET TOKEN :
 - `Google Chrome`
 - `http://101.255.95.249:6969`
 -
-Cara Install Bot Vipro :
+Cara Install Bot LINEYUHU :
 ------
 Di C9 :
 - Ketik -> `sudo apt-get update`
@@ -19,7 +19,7 @@ Di C9 :
 - Ketik -> `sudo pip install bs4`
 - Ketik -> `sudo pip install gtts`
 - Ketik -> `sudo pip install googletrans`
-- Ketik -> `git clone https://github.com/Gendjex/vipro2`
+- Ketik -> `git clone https://github.com/azhhahahah/BOTLINEYUHU`
 - Ketik -> `cd vipro2`
 - Ketik -> `python vipro.py`
 
@@ -34,7 +34,7 @@ Di Termux :
 - Ketik -> `pip2 install gtts`
 - Ketik -> `pip2 install beautifulsoup`
 - Ketik -> `pip2 install googletrans`
-- Ketik -> `git clone https://github.com/Gendjex/vipro2`
+- Ketik -> `git clone https://github.com/azhhahahah/BOTLINEYUHU`
 - Ketik -> `cd vipro2`
 - Ketik -> `python2 vipro.py`
 
@@ -49,11 +49,11 @@ Di Termux :
 - Ketik -> `python2 vipro.py`
 
 
-Credit By@ Vipro.
+Credit By@ MRWHITETRUEX.
 ------
-- `Add My ID LINE : gjxvipro`
+- `Add My ID LINE : mrwhitetruex`
 
 Thx To :
 ------
-- `LINE-TCR TEAM`
+- `LINE-INDONESIAN DARKNET`
 
